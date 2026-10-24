@@ -1,0 +1,106 @@
+{
+ "generatedAt": "MOCK 演示数据",
+ "period": {
+  "from": "2026-07-01",
+  "to": "2026-10-28",
+  "days": 118
+ },
+ "orderCount": 40,
+ "totalSpend": 14218.2,
+ "avgSpend": 355.5,
+ "totalDiscount": 2389.0,
+ "couponSavings": 2389.0,
+ "takeWayBreakdown": {
+  "麦乐送外送": 33,
+  "堂食": 7
+ },
+ "totalKcal": 23697,
+ "riceBowls": 118,
+ "kcalEstimated": false,
+ "kcalUnmatched": [
+  "零度可乐中杯",
+  "零度可乐中杯",
+  "零度可乐中杯",
+  "零度可乐中杯",
+  "零度可乐中杯",
+  "零度可乐中杯"
+ ],
+ "storeCount": 8,
+ "topStore": {
+  "name": "麦当劳深圳福田CBD餐厅",
+  "count": 10
+ },
+ "storeBreakdown": {
+  "麦当劳深圳福田CBD餐厅": 10,
+  "麦当劳深圳深南大道餐厅": 9,
+  "麦当劳深圳宝安机场餐厅": 3,
+  "麦当劳深圳南山海岸城餐厅": 6,
+  "麦当劳深圳科技园餐厅": 4,
+  "麦当劳深圳龙华北站餐厅": 4,
+  "麦当劳深圳东门餐厅": 2,
+  "麦当劳深圳华强北餐厅": 2
+ },
+ "account": {
+  "availablePoint": "888.0",
+  "expiringPoint": "66.0"
+ },
+ "events": [],
+ "persona": "深夜食堂主理人",
+ "personaLine": "城市睡了，你的麦乐送还醒着",
+ "subPersonas": [
+  {
+   "name": "券神",
+   "line": "原价？没听说过"
+  },
+  {
+   "name": "本命专一派",
+   "line": "别人在探索菜单，你在守护唯一"
+  }
+ ],
+ "stats": {
+  "lateNightRatio": 0.675,
+  "breakfastRatio": 0.35,
+  "couponOrderRatio": 0.825,
+  "deliveryRatio": 0.825,
+  "uniqueStoreCount": 8,
+  "topItemName": "圆筒冰淇淋",
+  "topItemOrderCount": 26,
+  "topItemRatio": 0.65,
+  "dessertRatio": 0.351,
+  "hourHistogram": [
+   6,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2,
+   3,
+   4,
+   0,
+   0,
+   8,
+   5
+  ],
+  "weekdayHistogram": [
+   6,
+   8,
+   7,
+   5,
+   4,
+   6,
+   4
+  ]
+ }
+}
