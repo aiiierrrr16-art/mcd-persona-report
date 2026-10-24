@@ -1,0 +1,16 @@
+# 个人真实数据（禁止公开）
+data/raw/
+data/data.json
+data/analysis.json
+data/next-order.json
+report.html
+samples/
+publish/
+
+# 演示数据保留
+!data/mock-data.json
+!data/analysis-mock.json
+
+__pycache__/
+*.pyc
+.DS_Store
