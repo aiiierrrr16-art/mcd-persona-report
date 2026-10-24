@@ -1,0 +1,1387 @@
+{
+ "generatedAt": "MOCK 演示数据",
+ "orders": [
+  {
+   "orderId": "MOCK00000000000000000010",
+   "createTime": "2026-10-16 19:10:11",
+   "storeCode": "S2",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 240.0,
+   "discount": 0,
+   "coupons": [],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "大杯鲜萃咖啡",
+     "qty": 1,
+     "kcal": 13,
+     "matched": "大杯鲜萃咖啡",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000037",
+   "createTime": "2026-10-17 22:18:11",
+   "storeCode": "S5",
+   "storeName": "麦当劳深圳深南大道餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 295.8,
+   "discount": 59.2,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 59.2
+    }
+   ],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "大杯鲜萃咖啡",
+     "qty": 1,
+     "kcal": 13,
+     "matched": "大杯鲜萃咖啡",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000033",
+   "createTime": "2026-10-19 23:07:11",
+   "storeCode": "S1",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 295.8,
+   "discount": 59.2,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 59.2
+    }
+   ],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "大杯鲜萃咖啡",
+     "qty": 1,
+     "kcal": 13,
+     "matched": "大杯鲜萃咖啡",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000000",
+   "createTime": "2026-10-20 18:24:11",
+   "storeCode": "S0",
+   "storeName": "麦当劳深圳宝安机场餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 357.0,
+   "discount": 71.4,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 71.4
+    }
+   ],
+   "items": [
+    {
+     "name": "麦乐鸡5块",
+     "qty": 1,
+     "kcal": 213,
+     "matched": "麦乐鸡5块",
+     "estimated": false
+    },
+    {
+     "name": "中薯条",
+     "qty": 1,
+     "kcal": 289,
+     "matched": "中薯条",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000019",
+   "createTime": "2026-10-20 22:00:11",
+   "storeCode": "S3",
+   "storeName": "麦当劳深圳南山海岸城餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 232.2,
+   "discount": 0,
+   "coupons": [],
+   "items": [
+    {
+     "name": "吉士汉堡包",
+     "qty": 1,
+     "kcal": 294,
+     "matched": "吉士汉堡包",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000003",
+   "createTime": "2026-10-23 00:00:11",
+   "storeCode": "S3",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 376.8,
+   "discount": 75.4,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 75.4
+    }
+   ],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "脆薯饼",
+     "qty": 1,
+     "kcal": 146,
+     "matched": "脆薯饼",
+     "estimated": false
+    },
+    {
+     "name": "锡兰红茶",
+     "qty": 1,
+     "kcal": 2,
+     "matched": "锡兰红茶",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000007",
+   "createTime": "2026-10-23 23:45:11",
+   "storeCode": "S7",
+   "storeName": "麦当劳深圳科技园餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 346.8,
+   "discount": 69.4,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 69.4
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡腿汉堡",
+     "qty": 1,
+     "kcal": 485,
+     "matched": "麦辣鸡腿汉堡",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000016",
+   "createTime": "2026-10-26 00:07:11",
+   "storeCode": "S0",
+   "storeName": "麦当劳深圳深南大道餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 408.0,
+   "discount": 81.6,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 81.6
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡翅",
+     "qty": 2,
+     "kcal": 448,
+     "matched": "麦辣鸡翅",
+     "estimated": false
+    },
+    {
+     "name": "香芋派",
+     "qty": 1,
+     "kcal": 232,
+     "matched": "香芋派",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000005",
+   "createTime": "2026-10-28 11:56:11",
+   "storeCode": "S5",
+   "storeName": "麦当劳深圳南山海岸城餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 535.2,
+   "discount": 107.0,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 107.0
+    }
+   ],
+   "items": [
+    {
+     "name": "巨无霸",
+     "qty": 1,
+     "kcal": 513,
+     "matched": "巨无霸",
+     "estimated": false
+    },
+    {
+     "name": "大薯条",
+     "qty": 1,
+     "kcal": 379,
+     "matched": "大薯条",
+     "estimated": false
+    },
+    {
+     "name": "零度可乐中杯",
+     "qty": 1,
+     "kcal": 0,
+     "matched": "零度可乐中杯",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000004",
+   "createTime": "2026-7-01 22:52:11",
+   "storeCode": "S4",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 306.6,
+   "discount": 61.3,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 61.3
+    }
+   ],
+   "items": [
+    {
+     "name": "奥利奥麦旋风",
+     "qty": 1,
+     "kcal": 266,
+     "matched": "奥利奥麦旋风",
+     "estimated": false
+    },
+    {
+     "name": "草莓新地",
+     "qty": 1,
+     "kcal": 245,
+     "matched": "草莓新地",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000006",
+   "createTime": "2026-7-09 01:04:11",
+   "storeCode": "S6",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "堂食",
+   "total": 232.2,
+   "discount": 46.4,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 46.4
+    }
+   ],
+   "items": [
+    {
+     "name": "吉士汉堡包",
+     "qty": 1,
+     "kcal": 294,
+     "matched": "吉士汉堡包",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000025",
+   "createTime": "2026-7-13 01:21:11",
+   "storeCode": "S1",
+   "storeName": "麦当劳深圳宝安机场餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 357.0,
+   "discount": 71.4,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 71.4
+    }
+   ],
+   "items": [
+    {
+     "name": "麦乐鸡5块",
+     "qty": 1,
+     "kcal": 213,
+     "matched": "麦乐鸡5块",
+     "estimated": false
+    },
+    {
+     "name": "中薯条",
+     "qty": 1,
+     "kcal": 289,
+     "matched": "中薯条",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000013",
+   "createTime": "2026-7-14 23:09:11",
+   "storeCode": "S5",
+   "storeName": "麦当劳深圳宝安机场餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 234.6,
+   "discount": 46.9,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 46.9
+    }
+   ],
+   "items": [
+    {
+     "name": "板烧鸡腿堡",
+     "qty": 1,
+     "kcal": 391,
+     "matched": "板烧鸡腿堡",
+     "estimated": false
+    },
+    {
+     "name": "零度可乐中杯",
+     "qty": 1,
+     "kcal": 0,
+     "matched": "零度可乐中杯",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000036",
+   "createTime": "2026-7-16 22:26:11",
+   "storeCode": "S4",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 346.8,
+   "discount": 69.4,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 69.4
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡腿汉堡",
+     "qty": 1,
+     "kcal": 485,
+     "matched": "麦辣鸡腿汉堡",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000038",
+   "createTime": "2026-7-19 01:41:11",
+   "storeCode": "S6",
+   "storeName": "麦当劳深圳南山海岸城餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 290.4,
+   "discount": 58.1,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 58.1
+    }
+   ],
+   "items": [
+    {
+     "name": "板烧鸡腿堡",
+     "qty": 1,
+     "kcal": 391,
+     "matched": "板烧鸡腿堡",
+     "estimated": false
+    },
+    {
+     "name": "零度可乐中杯",
+     "qty": 1,
+     "kcal": 0,
+     "matched": "零度可乐中杯",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000024",
+   "createTime": "2026-7-20 23:13:11",
+   "storeCode": "S0",
+   "storeName": "麦当劳深圳南山海岸城餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 408.0,
+   "discount": 81.6,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 81.6
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡翅",
+     "qty": 2,
+     "kcal": 448,
+     "matched": "麦辣鸡翅",
+     "estimated": false
+    },
+    {
+     "name": "香芋派",
+     "qty": 1,
+     "kcal": 232,
+     "matched": "香芋派",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000009",
+   "createTime": "2026-7-25 19:08:11",
+   "storeCode": "S1",
+   "storeName": "麦当劳深圳龙华北站餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 408.0,
+   "discount": 81.6,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 81.6
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡翅",
+     "qty": 2,
+     "kcal": 448,
+     "matched": "麦辣鸡翅",
+     "estimated": false
+    },
+    {
+     "name": "香芋派",
+     "qty": 1,
+     "kcal": 232,
+     "matched": "香芋派",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000014",
+   "createTime": "2026-7-28 22:25:11",
+   "storeCode": "S6",
+   "storeName": "麦当劳深圳龙华北站餐厅",
+   "takeWay": "堂食",
+   "total": 234.6,
+   "discount": 46.9,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 46.9
+    }
+   ],
+   "items": [
+    {
+     "name": "板烧鸡腿堡",
+     "qty": 1,
+     "kcal": 391,
+     "matched": "板烧鸡腿堡",
+     "estimated": false
+    },
+    {
+     "name": "零度可乐中杯",
+     "qty": 1,
+     "kcal": 0,
+     "matched": "零度可乐中杯",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000015",
+   "createTime": "2026-8-02 17:30:11",
+   "storeCode": "S7",
+   "storeName": "麦当劳深圳深南大道餐厅",
+   "takeWay": "堂食",
+   "total": 346.8,
+   "discount": 69.4,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 69.4
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡腿汉堡",
+     "qty": 1,
+     "kcal": 485,
+     "matched": "麦辣鸡腿汉堡",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000012",
+   "createTime": "2026-8-04 00:18:11",
+   "storeCode": "S4",
+   "storeName": "麦当劳深圳东门餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 463.8,
+   "discount": 92.8,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 92.8
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡翅",
+     "qty": 2,
+     "kcal": 448,
+     "matched": "麦辣鸡翅",
+     "estimated": false
+    },
+    {
+     "name": "香芋派",
+     "qty": 1,
+     "kcal": 232,
+     "matched": "香芋派",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000029",
+   "createTime": "2026-8-10 23:58:11",
+   "storeCode": "S5",
+   "storeName": "麦当劳深圳科技园餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 376.8,
+   "discount": 75.4,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 75.4
+    }
+   ],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "脆薯饼",
+     "qty": 1,
+     "kcal": 146,
+     "matched": "脆薯饼",
+     "estimated": false
+    },
+    {
+     "name": "锡兰红茶",
+     "qty": 1,
+     "kcal": 2,
+     "matched": "锡兰红茶",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000032",
+   "createTime": "2026-8-12 11:33:11",
+   "storeCode": "S0",
+   "storeName": "麦当劳深圳深南大道餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 346.8,
+   "discount": 69.4,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 69.4
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡腿汉堡",
+     "qty": 1,
+     "kcal": 485,
+     "matched": "麦辣鸡腿汉堡",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000018",
+   "createTime": "2026-8-15 22:27:11",
+   "storeCode": "S2",
+   "storeName": "麦当劳深圳科技园餐厅",
+   "takeWay": "堂食",
+   "total": 240.0,
+   "discount": 48.0,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 48.0
+    }
+   ],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "大杯鲜萃咖啡",
+     "qty": 1,
+     "kcal": 13,
+     "matched": "大杯鲜萃咖啡",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000034",
+   "createTime": "2026-8-17 17:57:11",
+   "storeCode": "S2",
+   "storeName": "麦当劳深圳深南大道餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 463.8,
+   "discount": 92.8,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 92.8
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡翅",
+     "qty": 2,
+     "kcal": 448,
+     "matched": "麦辣鸡翅",
+     "estimated": false
+    },
+    {
+     "name": "香芋派",
+     "qty": 1,
+     "kcal": 232,
+     "matched": "香芋派",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000026",
+   "createTime": "2026-8-20 11:18:11",
+   "storeCode": "S2",
+   "storeName": "麦当劳深圳深南大道餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 306.6,
+   "discount": 61.3,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 61.3
+    }
+   ],
+   "items": [
+    {
+     "name": "奥利奥麦旋风",
+     "qty": 1,
+     "kcal": 266,
+     "matched": "奥利奥麦旋风",
+     "estimated": false
+    },
+    {
+     "name": "草莓新地",
+     "qty": 1,
+     "kcal": 245,
+     "matched": "草莓新地",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000022",
+   "createTime": "2026-8-21 01:11:11",
+   "storeCode": "S6",
+   "storeName": "麦当劳深圳南山海岸城餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 408.0,
+   "discount": 0,
+   "coupons": [],
+   "items": [
+    {
+     "name": "麦辣鸡翅",
+     "qty": 2,
+     "kcal": 448,
+     "matched": "麦辣鸡翅",
+     "estimated": false
+    },
+    {
+     "name": "香芋派",
+     "qty": 1,
+     "kcal": 232,
+     "matched": "香芋派",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000020",
+   "createTime": "2026-8-22 01:46:11",
+   "storeCode": "S4",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 552.6,
+   "discount": 110.5,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 110.5
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡腿汉堡",
+     "qty": 1,
+     "kcal": 485,
+     "matched": "麦辣鸡腿汉堡",
+     "estimated": false
+    },
+    {
+     "name": "中薯条",
+     "qty": 1,
+     "kcal": 289,
+     "matched": "中薯条",
+     "estimated": false
+    },
+    {
+     "name": "可乐中杯",
+     "qty": 1,
+     "kcal": 147,
+     "matched": "可乐中杯",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000031",
+   "createTime": "2026-8-26 18:22:11",
+   "storeCode": "S7",
+   "storeName": "麦当劳深圳深南大道餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 240.0,
+   "discount": 48.0,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 48.0
+    }
+   ],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "大杯鲜萃咖啡",
+     "qty": 1,
+     "kcal": 13,
+     "matched": "大杯鲜萃咖啡",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000035",
+   "createTime": "2026-9-02 01:28:11",
+   "storeCode": "S3",
+   "storeName": "麦当劳深圳深南大道餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 232.2,
+   "discount": 0,
+   "coupons": [],
+   "items": [
+    {
+     "name": "吉士汉堡包",
+     "qty": 1,
+     "kcal": 294,
+     "matched": "吉士汉堡包",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000001",
+   "createTime": "2026-9-03 22:47:11",
+   "storeCode": "S1",
+   "storeName": "麦当劳深圳龙华北站餐厅",
+   "takeWay": "堂食",
+   "total": 288.0,
+   "discount": 57.6,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 57.6
+    }
+   ],
+   "items": [
+    {
+     "name": "吉士汉堡包",
+     "qty": 1,
+     "kcal": 294,
+     "matched": "吉士汉堡包",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000011",
+   "createTime": "2026-9-05 19:41:11",
+   "storeCode": "S3",
+   "storeName": "麦当劳深圳东门餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 295.8,
+   "discount": 0,
+   "coupons": [],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "大杯鲜萃咖啡",
+     "qty": 1,
+     "kcal": 13,
+     "matched": "大杯鲜萃咖啡",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000028",
+   "createTime": "2026-9-06 22:42:11",
+   "storeCode": "S4",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 240.0,
+   "discount": 48.0,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 48.0
+    }
+   ],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "大杯鲜萃咖啡",
+     "qty": 1,
+     "kcal": 13,
+     "matched": "大杯鲜萃咖啡",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000030",
+   "createTime": "2026-9-08 12:46:11",
+   "storeCode": "S6",
+   "storeName": "麦当劳深圳科技园餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 290.4,
+   "discount": 58.1,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 58.1
+    }
+   ],
+   "items": [
+    {
+     "name": "板烧鸡腿堡",
+     "qty": 1,
+     "kcal": 391,
+     "matched": "板烧鸡腿堡",
+     "estimated": false
+    },
+    {
+     "name": "零度可乐中杯",
+     "qty": 1,
+     "kcal": 0,
+     "matched": "零度可乐中杯",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000008",
+   "createTime": "2026-9-08 18:05:11",
+   "storeCode": "S0",
+   "storeName": "麦当劳深圳深南大道餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 463.8,
+   "discount": 0,
+   "coupons": [],
+   "items": [
+    {
+     "name": "麦辣鸡翅",
+     "qty": 2,
+     "kcal": 448,
+     "matched": "麦辣鸡翅",
+     "estimated": false
+    },
+    {
+     "name": "香芋派",
+     "qty": 1,
+     "kcal": 232,
+     "matched": "香芋派",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000021",
+   "createTime": "2026-9-09 19:53:11",
+   "storeCode": "S5",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "堂食",
+   "total": 306.6,
+   "discount": 61.3,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 61.3
+    }
+   ],
+   "items": [
+    {
+     "name": "奥利奥麦旋风",
+     "qty": 1,
+     "kcal": 266,
+     "matched": "奥利奥麦旋风",
+     "estimated": false
+    },
+    {
+     "name": "草莓新地",
+     "qty": 1,
+     "kcal": 245,
+     "matched": "草莓新地",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000017",
+   "createTime": "2026-9-19 00:02:11",
+   "storeCode": "S1",
+   "storeName": "麦当劳深圳南山海岸城餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 591.0,
+   "discount": 118.2,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 118.2
+    }
+   ],
+   "items": [
+    {
+     "name": "巨无霸",
+     "qty": 1,
+     "kcal": 513,
+     "matched": "巨无霸",
+     "estimated": false
+    },
+    {
+     "name": "大薯条",
+     "qty": 1,
+     "kcal": 379,
+     "matched": "大薯条",
+     "estimated": false
+    },
+    {
+     "name": "零度可乐中杯",
+     "qty": 1,
+     "kcal": 0,
+     "matched": "零度可乐中杯",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000002",
+   "createTime": "2026-9-20 00:57:11",
+   "storeCode": "S2",
+   "storeName": "麦当劳深圳华强北餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 552.6,
+   "discount": 110.5,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 110.5
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡腿汉堡",
+     "qty": 1,
+     "kcal": 485,
+     "matched": "麦辣鸡腿汉堡",
+     "estimated": false
+    },
+    {
+     "name": "中薯条",
+     "qty": 1,
+     "kcal": 289,
+     "matched": "中薯条",
+     "estimated": false
+    },
+    {
+     "name": "可乐中杯",
+     "qty": 1,
+     "kcal": 147,
+     "matched": "可乐中杯",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000039",
+   "createTime": "2026-9-22 00:49:11",
+   "storeCode": "S7",
+   "storeName": "麦当劳深圳龙华北站餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 608.4,
+   "discount": 121.7,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 121.7
+    }
+   ],
+   "items": [
+    {
+     "name": "麦辣鸡腿汉堡",
+     "qty": 1,
+     "kcal": 485,
+     "matched": "麦辣鸡腿汉堡",
+     "estimated": false
+    },
+    {
+     "name": "中薯条",
+     "qty": 1,
+     "kcal": 289,
+     "matched": "中薯条",
+     "estimated": false
+    },
+    {
+     "name": "可乐中杯",
+     "qty": 1,
+     "kcal": 147,
+     "matched": "可乐中杯",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000023",
+   "createTime": "2026-9-23 01:29:11",
+   "storeCode": "S7",
+   "storeName": "麦当劳深圳福田CBD餐厅",
+   "takeWay": "麦乐送外送",
+   "total": 295.8,
+   "discount": 59.2,
+   "coupons": [
+    {
+     "name": "券",
+     "amount": 59.2
+    }
+   ],
+   "items": [
+    {
+     "name": "猪柳蛋麦满分",
+     "qty": 1,
+     "kcal": 387,
+     "matched": "猪柳蛋麦满分",
+     "estimated": false
+    },
+    {
+     "name": "大杯鲜萃咖啡",
+     "qty": 1,
+     "kcal": 13,
+     "matched": "大杯鲜萃咖啡",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  },
+  {
+   "orderId": "MOCK00000000000000000027",
+   "createTime": "2026-9-24 01:50:11",
+   "storeCode": "S3",
+   "storeName": "麦当劳深圳华强北餐厅",
+   "takeWay": "堂食",
+   "total": 402.6,
+   "discount": 0,
+   "coupons": [],
+   "items": [
+    {
+     "name": "麦辣鸡腿汉堡",
+     "qty": 1,
+     "kcal": 485,
+     "matched": "麦辣鸡腿汉堡",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    },
+    {
+     "name": "圆筒冰淇淋",
+     "qty": 1,
+     "kcal": 93,
+     "matched": "圆筒冰淇淋",
+     "estimated": false
+    }
+   ]
+  }
+ ],
+ "nutritionCount": 160,
+ "unmatchedItems": [],
+ "account": {
+  "availablePoint": "888.0",
+  "expiringPoint": "66.0",
+  "accumulativePoint": "2333.3"
+ },
+ "coupons": {},
+ "calendar": {}
+}
